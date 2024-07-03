@@ -22,52 +22,53 @@
       "title": "Twitter",
       "link": "https://x.com/VHarin96420"
     },
-    { "id": "4", "title": "Blog", "link": "" },
-    { "id": "5", "title": "Email", "link": "mailto:harinchirappannath@gmail.com" }
+    {
+      "id": "4",
+      "title": "Blog",
+      "link": ""
+    },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:harinchirappannath@gmail.com"
+    }
   ],
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Web Design",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://github.com/ZeroDeath2/MyPortfolio"
-    },
-    {
+      "title": "Allocate360",
+      "description": "A complete solution for exam seat allocation for colleges.",
+      "imageSrc": "https://drive.google.com/file/d/1zgYvQn55eaKu3OCzcu7nJF0nhIy_r-Fk/view?usp=sharing",
+      "url": "https://github.com/ZeroDeath2/Allocate360"
+  },
+  {
       "id": "2",
-      "title": "Project Two",
-      "description": "Web Development",
+      "title": "Customate",
+      "description": "A AI customer care agent that handles complaints, classifies and issues tickets.",
       "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://github.com/ZeroDeath2/MyPortfolio"
-    },
-    {
+      "url": "https://drive.google.com/file/d/1gaD8AzsNKXnklObQAWO8bzSiNRo-JKBU/view?usp=sharing"
+  },
+  {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://github.com/ZeroDeath2/MyPortfolio"
-    },
-    {
+      "title": "Machine Learning using TensorFlow",
+      "description": "A machine learning model that ensures construction site safety to the workers.",
+      "imageSrc": "https://drive.google.com/file/d/16ml6BboQSvisZyIzycNVY55EF8RMDNcz/view?usp=sharing",
+      "url": "https://github.com/ZeroDeath2/Machine-learning-Using-Tensorflow"
+  },
+  {
       "id": "4",
-      "title": "Project Four",
-      "description": "Marketing",
-      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://github.com/ZeroDeath2/MyPortfolio"
-    },
-    {
+      "title": "IV Countdown timer",
+      "description": "A quick React app put together  for a countdown timer in about 30 minutes, that counts till the day of our industrial visit to Goa.",
+      "imageSrc": "https://drive.google.com/file/d/18k-9iCLBRweL-c2nzKWT5vMbs9paYrpg/view?usp=sharing",
+      "url": "https://theerthayathra.netlify.app/"
+  },
+  {
       "id": "5",
-      "title": "Project Five",
-      "description": "Development",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://github.com/ZeroDeath2/MyPortfolio"
-    },
-    {
-      "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://github.com/ZeroDeath2/MyPortfolio"
-    }
+      "title": "AlphaCap",
+      "description": "A python-Tkinter app that uses basic functions to export screenshots of the desired app, as PDFs.",
+      "imageSrc": "https://drive.google.com/file/d/1DsH09nCArCQXV9FzB3Ldpa2Xg0guCehb/view?usp=sharing",
+      "url": "https://github.com/ZeroDeath2/Code-Alpha/releases/tag/v2.1.1"
+  }
   ],
   "services": [
     {
@@ -77,16 +78,11 @@
     },
     {
       "id": "2",
-      "title": "Branding",
-      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
-    },
-    {
-      "id": "3",
       "title": "Web Design",
       "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
     }
   ],
-  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "aboutpara": "Hey there! I'm a full stack software developer with a passion for creating seamless, dynamic, and user-friendly web applications. Armed with a versatile skill set that includes JavaScript, Node.js, React, Python, MongoDB, HTML5, and CSS, I bring ideas to life with precision and creativity.\n\nWhether I'm developing the front-end user interfaces or tackling complex back-end logic, I thrive on the challenge of crafting innovative solutions. I'm not just about code—I believe in building experiences that delight users and exceed expectations.\n\nI'm known for my infectious enthusiasm and positive attitude, making me a joy to collaborate with. I pride myself on being a great team player, always ready to lend a hand and share a laugh. I value clear communication, continuous learning, and a collaborative spirit, which I believe are key to achieving great results.\n\nWhen I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or enjoying a good cup of coffee. Let's create something amazing together!",
   "resume": {
     "tagline": "👋  I'm a fullstack developer, and maker.",
     "description": "I have delivered world-class user experiences to a lot of people. Well-versed with React, Javascript, and most of the Web frameworks.",
@@ -106,16 +102,30 @@
         "dates": "March 2020 - March 2022",
         "type": "Full Time",
         "position": "Frontend Engineer at X",
-        "bullets": ["Worked on the frontend of a React application"]
+        "bullets": [
+          "Worked on the frontend of a React application"
+        ]
       }
     ],
     "education": {
       "universityName": "Govt Model Engineering College Thrikkakara",
       "universityDate": "2021-2025",
-      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      "universityPara": "Government Model Engineering College, Thrikkakara, established in 1989, is a premier engineering institution in Kerala. Affiliated with APJ Abdul Kalam Technological University, it offers undergraduate and postgraduate programs in various engineering disciplines. Renowned for academic excellence, research initiatives, and vibrant campus life, it fosters innovation and technical prowess."
     },
-    "languages": ["Javascript", "HTML5", "CSS", "Python","C"],
-    "frameworks": ["React", "NodeJs"],
-    "others": ["Figma", "AWS"]
+    "languages": [
+      "Javascript",
+      "HTML5",
+      "CSS",
+      "Python",
+      "C"
+    ],
+    "frameworks": [
+      "React",
+      "NodeJs"
+    ],
+    "others": [
+      "Figma",
+      "AWS"
+    ]
   }
 }
