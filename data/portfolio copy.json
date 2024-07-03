@@ -40,54 +40,64 @@
       "description": "A complete solution for exam seat allocation for colleges.",
       "imageSrc": "https://github.com/ZeroDeath2/MyPortfolio/blob/main/images/Allocate360.png?raw=true",
       "url": "https://github.com/ZeroDeath2/Allocate360"
-    },
-    {
+  },
+  {
       "id": "2",
-      "title": "Customate",
-      "description": "A AI customer care agent that handles complaints, classifies and issues tickets.",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://drive.google.com/file/d/1gaD8AzsNKXnklObQAWO8bzSiNRo-JKBU/view?usp=sharing"
-    },
-    {
+      "title": "Smart Menu",
+      "description": "A smart menu food ordering system that uses qr codes for ordering food in a restaurent.",
+      "imageSrc": "https://github.com/ZeroDeath2/MyPortfolio/blob/main/images/smart%20menu.png?raw=true",
+      "url": "https://github.com/ZeroDeath2/Mini-Project-S6"
+  },
+  {
       "id": "3",
       "title": "Machine Learning using TensorFlow",
       "description": "A machine learning model that ensures construction site safety to the workers.",
       "imageSrc": "https://github.com/ZeroDeath2/MyPortfolio/blob/main/images/ml.png?raw=true",
       "url": "https://github.com/ZeroDeath2/Machine-learning-Using-Tensorflow"
-    },
-    {
+  },
+  {
       "id": "4",
       "title": "IV Countdown timer",
       "description": "A quick React app put together  for a countdown timer in about 30 minutes, that counts till the day of our industrial visit to Goa.",
       "imageSrc": "https://github.com/ZeroDeath2/MyPortfolio/blob/main/images/Countdown%20Timer.png?raw=true",
       "url": "https://theerthayathra.netlify.app/"
-    },
-    {
+  },
+  {
       "id": "5",
       "title": "AlphaCap",
       "description": "A python-Tkinter app that uses basic functions to export screenshots of the desired app, as PDFs.",
       "imageSrc": "https://github.com/ZeroDeath2/MyPortfolio/blob/main/images/AlphaCap.png?raw=true",
       "url": "https://github.com/ZeroDeath2/Code-Alpha/releases/tag/v2.1.1"
-    },
-    {
+  },
+  {
       "id": "6",
-      "title": "Dummy",
-      "description": "Web Development",
+      "title": "Customate",
+      "description": "A AI customer care agent that handles complaints, classifies and issues tickets.",
       "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://github.com/ZeroDeath2/MyPortfolio"
-    }
+      "url": "https://drive.google.com/file/d/1gaD8AzsNKXnklObQAWO8bzSiNRo-JKBU/view?usp=sharing"
+  }
   ],
   "services": [
     {
       "id": "1",
-      "title": "Website development",
-      "description": "We help with the creation and development of dynamic websites, with particular focus on their core functionalities."
-    },
-    {
-      "id": "2",
+      "title": "Website Building",
+      "description": "We help with the creation and development of dynamic websites with particular focus on their core functionalities."
+  },
+  {
+      "id": "3",
       "title": "Web Design",
       "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
-    }
+  },
+  {
+      "id": "f70b48a8-34d3-42e1-930c-08cc1005830c",
+      "title": "Machine Learning model creation and basic optimisation",
+      "description": "I create models by collecting and preprocessing data, then using appropriate algorithms to train and validate the models. For basic optimization, I fine-tune hyperparameters, apply regularization techniques, and use cross-validation to enhance model accuracy and performance."
+  },
+  {
+      "id": "f792227e-de0c-4f2d-8520-415e3669ba8a",
+      "title": "Python Django App development",
+      "description": "I am confident in Python Django app development, capable of building robust  web applications from scratch. My expertise includes designing efficient database schemas, implementing RESTful APIs, and ensuring seamless integration with front-end technologies."
+  }
   ],
   "aboutpara": "Hey there! I'm a full stack software developer with a passion for creating seamless, dynamic, and user-friendly web applications. Armed with a versatile skill set that includes JavaScript, Node.js, React, Python, MongoDB, HTML5, and CSS, I bring ideas to life with precision and creativity.\n\nWhether I'm developing the front-end user interfaces or tackling complex back-end logic, I thrive on the challenge of crafting innovative solutions. I'm not just about code—I believe in building experiences that delight users and exceed expectations.\n\nI'm known for my infectious enthusiasm and positive attitude, making me a joy to collaborate with. I pride myself on being a great team player, always ready to lend a hand and share a laugh. I value clear communication, continuous learning, and a collaborative spirit, which I believe are key to achieving great results.\n\nWhen I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or enjoying a good cup of coffee. Let's create something amazing together!",
   "resume": {
