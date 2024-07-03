@@ -38,37 +38,44 @@
       "id": "1",
       "title": "Allocate360",
       "description": "A complete solution for exam seat allocation for colleges.",
-      "imageSrc": "https://drive.google.com/file/d/1zgYvQn55eaKu3OCzcu7nJF0nhIy_r-Fk/view?usp=sharing",
+      "imageSrc": "https://github.com/ZeroDeath2/MyPortfolio/blob/main/images/Allocate360.png?raw=true",
       "url": "https://github.com/ZeroDeath2/Allocate360"
-  },
-  {
+    },
+    {
       "id": "2",
       "title": "Customate",
       "description": "A AI customer care agent that handles complaints, classifies and issues tickets.",
       "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
       "url": "https://drive.google.com/file/d/1gaD8AzsNKXnklObQAWO8bzSiNRo-JKBU/view?usp=sharing"
-  },
-  {
+    },
+    {
       "id": "3",
       "title": "Machine Learning using TensorFlow",
       "description": "A machine learning model that ensures construction site safety to the workers.",
-      "imageSrc": "https://drive.google.com/file/d/16ml6BboQSvisZyIzycNVY55EF8RMDNcz/view?usp=sharing",
+      "imageSrc": "https://github.com/ZeroDeath2/MyPortfolio/blob/main/images/ml.png?raw=true",
       "url": "https://github.com/ZeroDeath2/Machine-learning-Using-Tensorflow"
-  },
-  {
+    },
+    {
       "id": "4",
       "title": "IV Countdown timer",
       "description": "A quick React app put together  for a countdown timer in about 30 minutes, that counts till the day of our industrial visit to Goa.",
-      "imageSrc": "https://drive.google.com/file/d/18k-9iCLBRweL-c2nzKWT5vMbs9paYrpg/view?usp=sharing",
+      "imageSrc": "https://github.com/ZeroDeath2/MyPortfolio/blob/main/images/Countdown%20Timer.png?raw=true",
       "url": "https://theerthayathra.netlify.app/"
-  },
-  {
+    },
+    {
       "id": "5",
       "title": "AlphaCap",
       "description": "A python-Tkinter app that uses basic functions to export screenshots of the desired app, as PDFs.",
-      "imageSrc": "https://drive.google.com/file/d/1DsH09nCArCQXV9FzB3Ldpa2Xg0guCehb/view?usp=sharing",
+      "imageSrc": "https://github.com/ZeroDeath2/MyPortfolio/blob/main/images/AlphaCap.png?raw=true",
       "url": "https://github.com/ZeroDeath2/Code-Alpha/releases/tag/v2.1.1"
-  }
+    },
+    {
+      "id": "6",
+      "title": "Dummy",
+      "description": "Web Development",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/ZeroDeath2/MyPortfolio"
+    }
   ],
   "services": [
     {
